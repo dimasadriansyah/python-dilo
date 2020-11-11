@@ -63,7 +63,7 @@ if name == "John" and age == 23:
 if name == "John" or name == "Rick":
 	print("Your name is either John or Risk.")
 
-# The "in" operator:
+#The "in" operator:
 
 y = 3
 
@@ -79,3 +79,5 @@ y = 3
 
 print(x == y)
 print(x is y)
+
+print("tes aja")

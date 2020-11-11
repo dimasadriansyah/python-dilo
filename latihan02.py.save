@@ -11,11 +11,16 @@ print (number)
 squared = 11 ** 2
 print(squared)
 
+<<<<<<< HEAD
+=======
+##penggabungan
+>>>>>>> hari-kedua
 even_numbers = [2,4,6,8]
 odd_numbers = [1,3,5,7]
 all_numbers = odd_numbers + even_numbers
 print(all_numbers)
 
+<<<<<<< HEAD
 #string formating
 
 myString = "Luke Skywalker"
@@ -23,11 +28,28 @@ myInt = 12
 myFloat = 4.8
 
 #python 2 and > 2
+=======
+##string formating
+
+myString = "Luke Skywalker"
+myInt = 12
+myFloat = 4.
+##python 2 and > 2
+>>>>>>> hari-kedua
+>>>>>>> hari-kedua
 print("My string is %s" % myString)
 print("This is integer number %d" % myInt)
 print("The string %s and the integer %d" % (myString, myInt))
 
+<<<<<<< HEAD
 #reference use index
+=======
+<<<<<<< HEAD
+#reference use index
+=======
+##reference use index
+>>>>>>> hari-kedua
+>>>>>>> hari-kedua
 print("The string is {0} nad the integer is {1}".format(myString, myInt))
 
 #lst = {'name': 'obi-wan', 'role':'jedi master'}
@@ -41,16 +63,38 @@ print(String.index("w"))
 
 astring = "Hello World!"
 print(astring[::-1])
+<<<<<<< HEAD
 # words capt and kecil
 print(astring.upper())
 print(astring.lower())
 # check true and false
+=======
+<<<<<<< HEAD
+# huruf kapital dan kecil
+print(astring.upper())
+print(astring.lower())
+# check true and false
+=======
+##huruf kapital dan kecil
+print(astring.upper())
+print(astring.lower())
+##check true and false
+>>>>>>> hari-kedua
+>>>>>>> hari-kedua
 print(astring.startswith("Hello"))
 print(astring.endswith("asadfddsd"))
 afewwords = astring.split(" ")
 print(afewwords)
 
+<<<<<<< HEAD
 #conditions
+=======
+<<<<<<< HEAD
+#conditions
+=======
+##conditions
+>>>>>>> hari-kedua
+>>>>>>> hari-kedua
 x=2
 print( x == 2)
 
@@ -63,7 +107,15 @@ if name == "John" and age == 23:
 if name == "John" or name == "Rick":
 	print("Your name is either John or Risk.")
 
+<<<<<<< HEAD
 # The "in" operator:
+=======
+<<<<<<< HEAD
+# The "in" operator:
+=======
+##The "in" operator:
+>>>>>>> hari-kedua
+>>>>>>> hari-kedua
 
 y = 3
 
@@ -79,3 +131,10 @@ y = 3
 
 print(x == y)
 print(x is y)
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> hari-kedua
+>>>>>>> hari-kedua
