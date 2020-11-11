@@ -7,3 +7,5 @@ for x in list;
 
 hello = ["intel", "samsung", "taulah"]
 print(hello)
+
+h = "ha"
