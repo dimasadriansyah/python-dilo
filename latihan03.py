@@ -29,15 +29,11 @@ else:
 ##exercise 3
 
 ##genap
-for y in range (1, 11):
-	if y %2 == 0:
-		print(y)
-	y += 1
+for y in range (2, 11, 2):
+	print(y)
 
 ##ganjil
-for i in range (10):
-	if i %2 == 0:
-		continue
+for i in range (1, 11, 2):
 	print(i)
 
 ##function
