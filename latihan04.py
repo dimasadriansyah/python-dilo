@@ -53,3 +53,20 @@ def a(kata):
 	return x
 
 print(a('hello'))
+
+class calculator:
+    def __init__(self, x ,y):
+        self.angkapertama = x
+        self.angkakedua = y
+    
+    def getPenjumlahan(x, y):
+        return x + y
+    
+    def getPengurangan(x, y):
+        return x - y
+
+    def getPerkalian(x, y):
+        return x * y
+print(calculator.getPenjumlahan(5,5))
+print(calculator.getPengurangan(5,5))
+print(calculator.getPerkalian(5,5))
