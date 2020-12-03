@@ -12,11 +12,8 @@ print(pangkat(2))
 def segitiga(x, y):
     return 0.5 * x * y
 print(segitiga(8, 3))
-
 print('==========')
-
 num = [1,5,6,2,8]
-
 def of(x):
     p = []
     for i in (x):
@@ -24,11 +21,9 @@ def of(x):
         p.append(y)
     return sum(p) 
 print(of(num))
-
 def bebas(number):
     return sum(i**2 for i in number)
 print(bebas(num))
-
 #dictionaries#
 dic = {}
 dic["john"] = 1234

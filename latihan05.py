@@ -19,3 +19,4 @@ def number(num):
     return int(x)
 
 print(number(248))
+
